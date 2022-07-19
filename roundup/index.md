@@ -1,4 +1,6 @@
 
+<div class="log_index">
+
 [Log for 2022-07-17](2022-07-17.md)
 
 [Log for 2022-07-04](2022-07-04.md)
